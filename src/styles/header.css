@@ -1,0 +1,13 @@
+.title h1 {
+    text-align: center;
+    margin: 0 0 20px 0;
+    letter-spacing: 0.2rem;
+}
+
+.title{
+    color: black;
+    margin-bottom: 30px;
+    background-color: #f1f1f1;
+    padding-top:20px;
+    padding-bottom:10px;
+}

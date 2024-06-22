@@ -1,0 +1,52 @@
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    padding: 20px;
+    border-radius: 8px;
+    width: 600px;
+    height: 350px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    color: #151E3F;
+    border-radius: 10px;
+    background: none;
+    color: ##000000;
+    font-weight: 900;
+    border: 3px solid #000000;
+    cursor: pointer;
+    background: white;
+}
+
+.modal-close {
+    background: transparent;
+    border: none;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.title p{
+    color: #000000;
+    font-weight: bolder;
+}
+
+.title-label{
+
+}
+
+.category{
+    margin-bottom:30px;
+
+}
+
+.author{
+    margin-bottom:30px;
+}
